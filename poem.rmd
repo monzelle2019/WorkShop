@@ -24,7 +24,7 @@ you, if you change any of this the git program will notice it and compromise you
 "The sun was shining on the sea,  
       Shining with all his might:  
 He did his very best to make  
-      The billows smooth and bright —  
+      The billows smooth and bright —   
 
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
